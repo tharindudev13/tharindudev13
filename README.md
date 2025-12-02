@@ -27,7 +27,8 @@
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="JavaScript" /></a></p>  
 ⚙️ Backend
 <p></p><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> </p>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href = "https://www.c-language.org"><img src="https://skillicons.dev/icons?i=c" alt="c" /></a></p>
 🗃️ Databases
 <p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
 <br>
@@ -41,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudev13&theme=dark&hide_border=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudev13&theme=dark&hide_border=true"/>
 </p>
 
 
