@@ -24,7 +24,8 @@
 <p align="left"> <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> 
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="JavaScript" /></a></p>  
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React.js" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Css" /></a></p>  
 ⚙️ Backend
 <p></p><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
