@@ -27,12 +27,20 @@
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React.js" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Css" /></a></p>  
 ⚙️ Backend
-<p></p><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
+<p></p><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a> 
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-<a href = "https://www.c-language.org"><img src="https://skillicons.dev/icons?i=c" alt="c" /></a></p>
+<a href = "https://www.c-language.org"><img src="https://skillicons.dev/icons?i=c" alt="c" /></a>
+<a href="https://www.nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="node" /></a>
+<a href="https://www.expressjs.com"><img src="https://skillicons.dev/icons?i=express" alt="Java" /></a> </p>
 
 🗃️ Databases
-<p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
+<p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" /></a></p>
+
+🗃️ Others
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,git,postman,blender,docker,notion" alt="others" /></a>
+
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
